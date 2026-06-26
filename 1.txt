@@ -1,0 +1,1 @@
+gitignore作るならgitignore io で作る。
